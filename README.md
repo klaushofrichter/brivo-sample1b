@@ -2,6 +2,8 @@
 
 Small Node.js command line tool for listing cameras from the Brivo Eagle Eye Video API.
 
+This example was created with help from Codex using GPT-5.
+
 The tool has two jobs:
 
 - `auth`: runs the OAuth authorization-code flow with Playwright and prints shell exports for the resulting access token.
