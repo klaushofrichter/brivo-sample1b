@@ -14,6 +14,8 @@ The tool has two jobs:
 - A redirect URI registered for that OAuth client
 - A user account that can log in and view cameras
 
+Developers can create their own OAuth `CLIENT_ID` and `CLIENT_SECRET` in the Eagle Eye developer portal on the [My Application](https://developer.eagleeyenetworks.com/page/my-application) page. Add the same redirect URI there that you plan to use locally, such as `http://127.0.0.1:3333`.
+
 ## Setup
 
 Install dependencies and the Playwright Chromium browser:
