@@ -1,0 +1,1 @@
+Visit https://apidocs.brivo.com/llms.txt and build a node commandline tool that lists my cameras. Use Playwright to execut the OAUTH flow and get an access token which can be passed as environment variable to the commandline tool. Credentials are in .env for TEST_USER and TEST_PASSWORD for an OAUTH login. Also find a CLIENT_ID, CLIENT_SECRET and a REDIRECT_URI
